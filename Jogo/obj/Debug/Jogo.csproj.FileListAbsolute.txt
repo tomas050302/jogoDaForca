@@ -1,0 +1,27 @@
+G:\Escola\11º Ano\TP\Jogo da Forca\Jogo\bin\Debug\Jogo.exe.config
+G:\Escola\11º Ano\TP\Jogo da Forca\Jogo\bin\Debug\Jogo.exe
+G:\Escola\11º Ano\TP\Jogo da Forca\Jogo\bin\Debug\Jogo.pdb
+G:\Escola\11º Ano\TP\Jogo da Forca\Jogo\obj\Debug\Jogo.csprojAssemblyReference.cache
+G:\Escola\11º Ano\TP\Jogo da Forca\Jogo\obj\Debug\Jogo.csproj.CoreCompileInputs.cache
+G:\Escola\11º Ano\TP\Jogo da Forca\Jogo\obj\Debug\Jogo.exe
+G:\Escola\11º Ano\TP\Jogo da Forca\Jogo\obj\Debug\Jogo.pdb
+F:\Escola\11º Ano\TP\Jogo da Forca\Jogo\bin\Debug\Jogo.exe.config
+F:\Escola\11º Ano\TP\Jogo da Forca\Jogo\bin\Debug\Jogo.exe
+F:\Escola\11º Ano\TP\Jogo da Forca\Jogo\bin\Debug\Jogo.pdb
+F:\Escola\11º Ano\TP\Jogo da Forca\Jogo\obj\Debug\Jogo.exe
+F:\Escola\11º Ano\TP\Jogo da Forca\Jogo\obj\Debug\Jogo.pdb
+E:\Escola\11º Ano\TP\Jogo da Forca\Jogo\bin\Debug\Jogo.exe.config
+E:\Escola\11º Ano\TP\Jogo da Forca\Jogo\bin\Debug\Jogo.exe
+E:\Escola\11º Ano\TP\Jogo da Forca\Jogo\bin\Debug\Jogo.pdb
+E:\Escola\11º Ano\TP\Jogo da Forca\Jogo\obj\Debug\Jogo.exe
+E:\Escola\11º Ano\TP\Jogo da Forca\Jogo\obj\Debug\Jogo.pdb
+F:\Programação\Jogo da Forca\Jogo\bin\Debug\Jogo.exe.config
+F:\Programação\Jogo da Forca\Jogo\bin\Debug\Jogo.exe
+F:\Programação\Jogo da Forca\Jogo\bin\Debug\Jogo.pdb
+F:\Programação\Jogo da Forca\Jogo\obj\Debug\Jogo.csprojAssemblyReference.cache
+F:\Programação\Jogo da Forca\Jogo\obj\Debug\Jogo.csproj.CoreCompileInputs.cache
+F:\Programação\Jogo da Forca\Jogo\obj\Debug\Jogo.exe
+F:\Programação\Jogo da Forca\Jogo\obj\Debug\Jogo.pdb
+F:\Escola\11º Ano\TP\Jogo da Forca\Jogo\obj\Debug\Jogo.csprojResolveAssemblyReference.cache
+F:\Escola\11º Ano\TP\Jogo da Forca\Jogo\obj\Debug\Jogo.csproj.CoreCompileInputs.cache
+E:\Escola\11º Ano\TP\Jogo da Forca\Jogo\obj\Debug\Jogo.csprojResolveAssemblyReference.cache
