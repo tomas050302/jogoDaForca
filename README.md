@@ -5,7 +5,7 @@
   </a>
 </p>
 
-> Jogo da Forca: Jogo para 2 ou mais jogadores
+> Terminal Hangman Game: Game for atleast two players. Leaderboard and custom words. 
 
 ## Author
 
@@ -14,7 +14,7 @@
 * Twitter: [@tomas050302](https://twitter.com/tomas050302)
 * Github: [@tomas050302](https://github.com/tomas050302)
 
-## Project
+## Project 🇵
 
 Todas as partes essenciais do jogo funcionam, e estão todas organizadas em pequenas funções e procedimentos.
 A escolha da opção desejada no menu é feita a partir das setas do teclado de modo a ser mais interativo com o utilizador.
